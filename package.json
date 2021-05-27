@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://vanessamarely.github.io/deploy-react-example/",
+  "homepage": "deploy-react-example",
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
